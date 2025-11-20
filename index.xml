@@ -9,26 +9,32 @@
     <title>AboutUs</title>
     <link>https://quartz.jzhao.xyz/AboutUs</link>
     <guid>https://quartz.jzhao.xyz/AboutUs</guid>
-    <description><![CDATA[  .team-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 2em; margin-top: 2em; } .member { flex: 1 1 200px; /* responsive width — fits 2-3 per row */ max-width: 300px; text-align: center; padding: 1em; border-radius: 10px; transition: transform 0.2s ease, box-shadow 0.2s ease... ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
+    <description><![CDATA[ Welcome to Café CS — a cozy gathering for curious minds who love computer science, problem-solving, and good conversation. ]]></description>
+    <pubDate>Thu, 20 Nov 2025 17:00:07 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ ☕ Café CS 🎙 Upcoming &amp; Past Talks .table-container { width: 100%; overflow-x: hidden; box-sizing: border-box; } table { width: 90%; table-layout: auto; border-collapse: collapse; margin: auto; } td, th { word-wrap: break-word; overflow-wrap: break-word; white-space: normal; border: 1px solid #c... ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 17:00:07 GMT</pubDate>
   </item><item>
     <title>notes</title>
     <link>https://quartz.jzhao.xyz/talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes</link>
     <guid>https://quartz.jzhao.xyz/talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes</guid>
-    <description><![CDATA[ Intro to Game Theory A beginner-friendly introduction to strategic thinking and mathematical modeling in competitive scenarios. ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
+    <description><![CDATA[ Who’s Guarding the Louvre?! : The Art Gallery Problem Explained Presenter: Shayan Shahrabi Overview: Imagine securing an art gallery with the fewest guards possible. ]]></description>
+    <pubDate>Thu, 20 Nov 2025 17:00:07 GMT</pubDate>
   </item><item>
     <title>notes</title>
     <link>https://quartz.jzhao.xyz/talks/1404-08-21-Beyond-The-Bank/notes</link>
     <guid>https://quartz.jzhao.xyz/talks/1404-08-21-Beyond-The-Bank/notes</guid>
-    <description><![CDATA[ Intro to Game Theory A beginner-friendly introduction to strategic thinking and mathematical modeling in competitive scenarios. ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
+    <description><![CDATA[ Beyond the Bank : What is Bitcoin &amp; Why?! Presenter: Seyed Ali Hosseini Nasab Overview: From obscurity to global headlines, Bitcoin has sparked a financial revolution that challenges our deepest assumptions about money. ]]></description>
+    <pubDate>Thu, 20 Nov 2025 17:00:07 GMT</pubDate>
+  </item><item>
+    <title>notes</title>
+    <link>https://quartz.jzhao.xyz/talks/1404-08-28-Fun-Meets-Function/notes</link>
+    <guid>https://quartz.jzhao.xyz/talks/1404-08-28-Fun-Meets-Function/notes</guid>
+    <description><![CDATA[  Presenter: Mehrdad Shirvani Overview: Games are shaping the way we learn, solve problems, and innovate. ]]></description>
+    <pubDate>Thu, 20 Nov 2025 17:00:07 GMT</pubDate>
   </item>
     </channel>
   </rss>
