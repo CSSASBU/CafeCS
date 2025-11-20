@@ -1,4 +1,8 @@
+Welcome to Café CS — a cozy gathering for curious minds who love computer science, problem-solving, and good conversation. Each week, we bring together students, developers, mathematicians, and enthusiasts to explore ideas across CS: from algorithms and theory to AI, software engineering, hardware, and everything in between.
 
+Our goal is simple: create a warm, welcoming space where people can learn from one another, think together, and enjoy the process of understanding complex ideas — all without the pressure of a classroom or the formality of a conference. Just thoughtful minds, good vibes, and interesting discussions. 
+
+ **This is our team:**
 
 <style>
 .team-container {
@@ -53,53 +57,43 @@
 
 <div class="team-container">
   <div class="member">
-    <img src="team/1.jpg" alt="Sadra Seyedtabaei">
+    <img src="team/sadra.jpg" alt="Sadra Seyedtabaei">
     <div class="name">Sadra Seyedtabaei</div>
-    <div class="title">Position</div>
   </div>
 <div class="member">
-    <img src="team/1.jpg" alt="Mohammad Sajjad Zanganeh">
+    <img src="team/sajjad.jpg" alt="Mohammad Sajjad Zanganeh">
     <div class="name">Mohammad Sajjad Zanganeh</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Amin Ghoorchian">
+    <img src="team/amin.jpg" alt="Amin Ghoorchian">
     <div class="name">Amin Ghoorchian</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Shayan Shahrabi">
+    <img src="team/shayan.jpg" alt="Shayan Shahrabi">
     <div class="name">Shayan Shahrabi</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Ali Taherzadeh">
+    <img src="team/ali_taherzadeh.jpg" alt="Ali Taherzadeh">
     <div class="name">Ali Taherzadeh</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Mehrdad Shirvani">
+    <img src="team/mehrdad.jpg" alt="Mehrdad Shirvani">
     <div class="name">Mehrdad Shirvani</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Ali Nadi">
+    <img src="team/default.png" alt="Ali Nadi">
     <div class="name">Ali Nadi</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="AmirAli Araghi">
+    <img src="team/amirali.jpg" alt="AmirAli Araghi">
     <div class="name">AmirAli Araghi</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Ehsan Habibagahi">
+    <img src="team/ehsan.png" alt="Ehsan Habibagahi">
     <div class="name">Ehsan Habibagahi</div>
-    <div class="title">Position</div>
   </div>
   <div class="member">
-    <img src="team/1.jpg" alt="Hirad Torabi">
+    <img src="team/default.png" alt="Hirad Torabi">
     <div class="name">Hirad Torabi</div>
-    <div class="title">Position</div>
   </div>
 </div>

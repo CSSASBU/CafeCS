@@ -158,10 +158,10 @@ tags:
         </td>
         <td>
           <div class="title">
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Fun Meets Function</a>
-            <span>   When Games Get Serious !</span>
+            <a href="talks/1404-08-28-Fun-Meets-Function/notes.md" >#003: Fun Meets Function</a>
+            <span> | When Games Get Serious !</span>
           </div>
-          <div><a href="presenters/ali-rezaei.md">Mehrdad Shirvani</a></div>
+          <div>Mehrdad Shirvani</div>
           <div class="tags">
             <span class="tag">Nov 20, 2025</span>
             <span class="tag">games</span>
@@ -180,8 +180,7 @@ tags:
           </div>
           <div class="resources">
             Resources:  
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/slides.pdf">Slides</a>
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Lecture Notes</a>
+            <a href="talks/1404-08-28-Fun-Meets-Function/slides.pdf">Slides</a>
           </div>
         </td>
       </tr>
@@ -191,10 +190,10 @@ tags:
         </td>
         <td>
           <div class="title">
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Beyond the Bank</a>
-            <span>   What is Bitcoin & Why?!</span>
+            <a href="talks/1404-08-21-Beyond-The-Bank/notes.md">Beyond the Bank</a>
+            <span> |  What is Bitcoin & Why?!</span>
           </div>
-          <div><a href="presenters/ali-rezaei.md">Seyed Ali Hosseini Nasab</a></div>
+          <div>Seyed Ali Hosseini Nasab</div>
           <div class="tags">
             <span class="tag">Nov 13, 2025</span>
             <span class="tag">bitcoin</span>
@@ -211,8 +210,8 @@ tags:
           </div>
           <div class="resources">
             Resources:  
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/slides.pdf">Slides</a>
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Lecture Notes</a>
+            <a href="talks/1404-08-21-Beyond-The-Bank//slides.pdf">Slides</a>
+            <a href="https://youtu.be/p1QJ-IL952U?si=5ce-O2Mb8VnvISQ1">Video</a>
           </div>
         </td>
       </tr>
@@ -222,11 +221,10 @@ tags:
         </td>
         <td>
           <div class="title">
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Who is Guarding the Louvre?!</a>
-            The Art Gallery Problem Explained
+            <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes.md">Who is Guarding the Louvre?!</a>
+            | The Art Gallery Problem Explained
           </div>
-          <div><a href="presenters/ali-rezaei.md">Shayan Shahrabi Farahani
-	</a></div>
+          <div>Shayan Shahrabi Farahani</div>
           <div class="tags">
 	        <span class="tag">Nov 6, 2025</span>
             <span class="tag">computational-geometry</span>
@@ -243,8 +241,7 @@ tags:
           </div>
           <div class="resources">
             Resources:
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/slides.pdf">Slides</a>
-            <a href="talks/2025-11-20-Intro-to-Game-Theory/notes.md">Lecture Notes</a>
+            <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/slides.pdf">Slides</a>
           </div>
         </td>
       </tr>
@@ -254,17 +251,14 @@ tags:
 
 ---
 
-## About Us
+## About Café CS
 
- Many events inspired us to ignite the engines of Café CS - from the legendary series of Combinatorics Circle Seminars organized by the minds behind Iran’s Combinatorics Olympiad, to the Tabaghe16 Podcast of Soheil Alavi, which - by his own words - brews a magnetism that gathers people who think alike… and see the world through the same lens.
-
-  
+Many events inspired us to ignite the engines of Café CS - from the legendary series of Combinatorics Circle Seminars organized by the minds behind Iran’s Combinatorics Olympiad, to the Tabaghe16 Podcast of Soheil Alavi, which - by his own words - brews a magnetism that gathers people who think alike… and see the world through the same lens.
 
 We even took a sip from past experiences - like the Math Circle Book - a place where people gathered around a shared table and solved problems together… much like a group of heroes plotting strategy over steaming mugs of logic.
 
 All these sparks combined - and forged the idea that we, too, should ignite our own gathering - a place where computer scientists, tech lovers, mathematicians, and curious spirits unite. A corner café where we talk about the very foundation beans of CS - from machine learning and artificial intelligence to software & hardware engineering, mathematics, graph theory, and anything roasted, brewed, or filtered through the world of computer science.
 
-  
 Here, once a week, we gather - tea in hand, curiosity online, engines engaged - to discuss what we love.
 
 These sessions aren’t meant to be a class - nor a conference. No towering lecture halls. No rigid protocols. Just a warm, friendly café chat for inquisitive minds - to learn from one another, spark ideas, and build a cozy fellowship of computer enthusiasts.
@@ -273,5 +267,5 @@ These sessions aren’t meant to be a class - nor a conference. No towering lect
 
 
 
->[!tip] Café CS - More Than a Gathering. A Brewed Alliance.
+>	[!tip] [Café CS](AboutUs) - More Than a Gathering. A Brewed Alliance.
 
