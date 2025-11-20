@@ -53,8 +53,7 @@ tags:
 	tr {
 	  height: auto;         
 	  object-fit: contain;
-	  max-height: 200px;     
-	  overflow: hidden;
+	
 	}
 	
 	.title {
@@ -107,42 +106,42 @@ tags:
 	/* Responsive stacking */
 	@media (max-width: 700px) {
 
-  /* Make each row a vertical card */
+  /* Make each row a card */
   tr {
     display: flex;
     flex-direction: column;
-    margin-bottom: 2em;
     border: 1px solid #333;
     border-radius: 10px;
+    margin-bottom: 1.5em;
     overflow: hidden;
   }
 
-  /* Hide header row only */
   thead {
     display: none;
   }
 
   td {
+    display: block;
     width: 100%;
     border: none;
     padding: 1em;
     box-sizing: border-box;
   }
 
-  /* Image: full width, auto height */
+  /* Image becomes full-width */
   td img {
     width: 100%;
     height: auto;
-    max-height: none;
+    max-height: none;   /* important */
     object-fit: contain;
-    border-radius: 0;
+    display: block;
   }
 
-  /* Container padding fix */
   .table-container {
-    padding: 0 0.5em;
+    padding: 0 .5em;
   }
 }
+
 </style>
 <div class="table-container">
   <table>
