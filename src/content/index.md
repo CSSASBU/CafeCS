@@ -106,54 +106,43 @@ tags:
 	
 	/* Responsive stacking */
 	@media (max-width: 700px) {
-  table {
-    width: 100%;
+
+  /* Make each row a vertical card */
+  tr {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+    border: 1px solid #333;
+    border-radius: 10px;
+    overflow: hidden;
   }
 
-  table, thead, tbody, th, td, tr {
-    display: block;
-  }
-
-  th {
+  /* Hide header row only */
+  thead {
     display: none;
   }
 
-  tr {
-    margin-bottom: 2em;
-    border: none;
-  }
-
   td {
-    border: none;
-    padding: 0;
-  }
-
-  /* Poster cell */
-  td:first-child img {
     width: 100%;
-    border-radius: 10px;
-    margin-bottom: 1em;
+    border: none;
+    padding: 1em;
+    box-sizing: border-box;
   }
 
-  /* Text cell */
-  td:nth-child(2) {
+  /* Image: full width, auto height */
+  td img {
+    width: 100%;
+    height: auto;
+    max-height: none;
+    object-fit: contain;
+    border-radius: 0;
+  }
+
+  /* Container padding fix */
+  .table-container {
     padding: 0 0.5em;
   }
-
-  /* Tags wrap nicely */
-  .tags {
-    gap: 0.4em;
-    margin-bottom: 0.6em;
-  }
-
-  /* Make rows feel like cards */
-  tr {
-    background: #111;
-    padding: 1em;
-    border-radius: 12px;
-  }
 }
-
 </style>
 <div class="table-container">
   <table>
