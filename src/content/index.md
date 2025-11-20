@@ -271,4 +271,4 @@ These sessions aren’t meant to be a class - nor a conference. No towering lect
 
 Till we meet again, fellow travelers of logic… 🙌❤️☕
 
->     [!tip] [Café CS](AboutUs) - More Than a Gathering. A Brewed Alliance.
+> [!tip] [Café CS](AboutUs) - More Than a Gathering. A Brewed Alliance.
