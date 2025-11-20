@@ -43,6 +43,7 @@ Our goal is simple: create a warm, welcoming space where people can learn from o
   margin-bottom: 0.3em;
 }
 
+
 .member .title {
   font-size: 0.9em;
 }
