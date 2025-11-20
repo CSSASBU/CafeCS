@@ -1,6 +1,11 @@
 ---
 title: Home
-socialImage: "og-image.png"
+socialImage: "images/og-image.png"
+image: "images/og-image.png"
+cover: "images/og-image.png"
+
+socialDescription: "A corner café where we talk about the very foundation beans of CS - from machine learning and artificial intelligence to software & hardware engineering, mathematics, graph theory, and anything roasted, brewed, or filtered through the world of computer science."
+
 tags:
   - webinar
   - computer-science
