@@ -10,25 +10,25 @@
     <link>https://quartz.jzhao.xyz/AboutUs</link>
     <guid>https://quartz.jzhao.xyz/AboutUs</guid>
     <description><![CDATA[  .team-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 2em; margin-top: 2em; } .member { flex: 1 1 200px; /* responsive width — fits 2-3 per row */ max-width: 300px; text-align: center; padding: 1em; border-radius: 10px; transition: transform 0.2s ease, box-shadow 0.2s ease... ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:52:25 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ ☕ Café CS 🎙 Upcoming &amp; Past Talks .table-container { width: 100%; overflow-x: hidden; box-sizing: border-box; } table { width: 90%; table-layout: auto; border-collapse: collapse; margin: auto; } td, th { word-wrap: break-word; overflow-wrap: break-word; white-space: normal; border: 1px solid #c... ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:52:25 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
   </item><item>
     <title>notes</title>
     <link>https://quartz.jzhao.xyz/talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes</link>
     <guid>https://quartz.jzhao.xyz/talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes</guid>
     <description><![CDATA[ Intro to Game Theory A beginner-friendly introduction to strategic thinking and mathematical modeling in competitive scenarios. ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:52:25 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
   </item><item>
     <title>notes</title>
     <link>https://quartz.jzhao.xyz/talks/1404-08-21-Beyond-The-Bank/notes</link>
     <guid>https://quartz.jzhao.xyz/talks/1404-08-21-Beyond-The-Bank/notes</guid>
     <description><![CDATA[ Intro to Game Theory A beginner-friendly introduction to strategic thinking and mathematical modeling in competitive scenarios. ]]></description>
-    <pubDate>Thu, 20 Nov 2025 14:52:25 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 14:57:41 GMT</pubDate>
   </item>
     </channel>
   </rss>
