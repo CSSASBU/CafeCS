@@ -88,8 +88,13 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages({
+        colorScheme: "lightMode",     
+        width: 1200,
+        height: 630,
+        excludeRoot: false,
+        // imageStructure: defaultImage  
+      }),
     ],
   },
 }

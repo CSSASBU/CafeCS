@@ -1,5 +1,6 @@
 ---
 title: Home
+socialImage: "og-image.png"
 tags:
   - webinar
   - computer-science
@@ -263,9 +264,6 @@ Here, once a week, we gather - tea in hand, curiosity online, engines engaged - 
 
 These sessions aren’t meant to be a class - nor a conference. No towering lecture halls. No rigid protocols. Just a warm, friendly café chat for inquisitive minds - to learn from one another, spark ideas, and build a cozy fellowship of computer enthusiasts.
 
- Till we meet again, fellow travelers of logic… 🙌❤️☕
+Till we meet again, fellow travelers of logic… 🙌❤️☕
 
-
-
->	[!tip] [Café CS](AboutUs) - More Than a Gathering. A Brewed Alliance.
-
+>     [!tip] [Café CS](AboutUs) - More Than a Gathering. A Brewed Alliance.
