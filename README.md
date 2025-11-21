@@ -1,5 +1,7 @@
 # ☕ Café CS
 
+[Visit Café CS](https://cssasbu.github.io/CafeCS/)
+
 Many events inspired us to ignite the engines of Café CS - from the legendary series of Combinatorics Circle Seminars organized by the minds behind Iran’s Combinatorics Olympiad, to the Tabaghe16 Podcast of Soheil Alavi, which - by his own words - brews a magnetism that gathers people who think alike… and see the world through the same lens.
 
 We even took a sip from past experiences - like the Math Circle Book - a place where people gathered around a shared table and solved problems together… much like a group of heroes plotting strategy over steaming mugs of logic.
