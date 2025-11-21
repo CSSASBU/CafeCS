@@ -149,6 +149,7 @@ tags:
 }
 
 </style>
+
 <div class="table-container">
   <table>
     <thead>
@@ -159,7 +160,40 @@ tags:
     </thead>
     <tbody>
     <tr>
+	    <td>
+          <img src="talks/1404-09-05-The-Evolution-of-Data-Architecture/poster.png" alt="Intro to Game Theory Poster">
+        </td>
         <td>
+          <div class="title">
+             <span style="font-weight: bold; color: #ff5733;">Upcoming!</span>
+            <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/notes.md" >#004: The Evolution of Data Architecture!</a>
+            <span> | From Warehouses to Lakehouses and the Rise of Real-Time Processing</span>
+          </div>
+          <div>Navid Ebadi</div>
+          <div class="tags">
+            <span class="tag">Nov 26, 2025</span>
+            <span class="tag">big-data</span>
+            <span class="tag">data-warehousing</span>
+            <span class="tag">data-lakes</span>
+            <span class="tag">data-lakehouses</span>
+            <span class="tag">real-time-stream-processing</span>
+            <span class="tag">data-storage</span>
+            <span class="tag">data-processing</span>
+            <span class="tag">data-management</span>
+            <span class="tag">data-evolution</span>
+          </div>
+          <div class="description">
+            We live in an era where data is generated at unprecedented speed, volume, and variety—a phenomenon widely known as Big Data . This explosion of information has fundamentally changed how organizations store, process, and analyze their digital assets.
+            In this lecture we'll explore the evolution from traditional Data Warehouses (structured storage for analytics) to flexible Data Lakes (raw data repositories), and innovative Data Lakehouses (combining the best of both). Finally, we'll discuss real-time stream processing.
+          </div>
+          <div class="resources">
+            Resources:  
+            Slides (will be added soon)
+          </div>
+        </td>
+      </tr>
+      <tr>
+	    <td>
           <img src="talks/1404-08-28-Fun-Meets-Function/poster.jpg" alt="Intro to Game Theory Poster">
         </td>
         <td>
@@ -169,7 +203,7 @@ tags:
           </div>
           <div>Mehrdad Shirvani</div>
           <div class="tags">
-            <span class="tag">Nov 20, 2025</span>
+            <span class="tag">Nov 19, 2025</span>
             <span class="tag">games</span>
             <span class="tag">serious-games</span>
             <span class="tag">gamification</span>
@@ -196,12 +230,12 @@ tags:
         </td>
         <td>
           <div class="title">
-            <a href="talks/1404-08-21-Beyond-The-Bank/notes.md">Beyond the Bank</a>
+            <a href="talks/1404-08-21-Beyond-The-Bank/notes.md">#002: Beyond the Bank</a>
             <span> |  What is Bitcoin & Why?!</span>
           </div>
           <div>Seyed Ali Hosseini Nasab</div>
           <div class="tags">
-            <span class="tag">Nov 13, 2025</span>
+            <span class="tag">Nov 12, 2025</span>
             <span class="tag">bitcoin</span>
             <span class="tag">blockchain</span>
             <span class="tag">decentralized-systems</span>
@@ -227,12 +261,12 @@ tags:
         </td>
         <td>
           <div class="title">
-            <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes.md">Who is Guarding the Louvre?!</a>
+            <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes.md">001: Who is Guarding the Louvre?!</a>
             | The Art Gallery Problem Explained
           </div>
           <div>Shayan Shahrabi Farahani</div>
           <div class="tags">
-	        <span class="tag">Nov 6, 2025</span>
+	        <span class="tag">Nov 5, 2025</span>
             <span class="tag">computational-geometry</span>
             <span class="tag">optimization</span>
             <span class="tag">visibility</span>
