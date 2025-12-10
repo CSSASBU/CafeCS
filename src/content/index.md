@@ -161,11 +161,42 @@ tags:
     <tbody>
     <tr>
 	    <td>
+          <img src="talks/1404-09-19-When-Models-Become-Actors/poster.png" alt="Intro to Game Theory Poster">
+        </td>
+        <td>
+          <div class="title">
+            <a href="talks/1404-09-19-When-Models-Become-Actors/notes.md" >#005: When Models Become Actors !</a>
+            <span> | The Shift from LLMs to Intelligent Agents</span>
+          </div>
+          <div>Sina Tayebi</div>
+          <div class="tags">
+            <span class="tag">ai</span>
+			<span class="tag">llms</span>
+			<span class="tag">agents</span>
+			<span class="tag">agentic-systems</span>
+			<span class="tag">memory</span>
+			<span class="tag">tool-use</span>
+			<span class="tag">autonomous-agents</span>
+			<span class="tag">agi</span>
+			<span class="tag">emergent-behavior</span>
+			<span class="tag">ai-philosophy</span>
+			<span class="tag">future-of-ai</span>
+          </div>
+          <div class="description">
+            We built machines that could speak, but not yet machines that could decide. LLMs dazzled us with language, yet remained confined to their own predictions, unable to take a step beyond the next token. Now, quietly, a shift is underway. Models are being wrapped in memory, tools, goals, and loops, beginning to behave less like static oracles and more like emerging agents. This talk explores that threshold: why language alone was never enough, what happens when models begin to act, and whether these new agentic systems mark the first glimmer of something closer to general intelligence, or merely another step in a much longer journey.
+          </div>
+          <div class="resources">
+            Resources:  
+            Slides (will be added soon)
+          </div>
+        </td>
+      </tr>
+    <tr>
+	    <td>
           <img src="talks/1404-09-05-The-Evolution-of-Data-Architecture/poster.png" alt="Intro to Game Theory Poster">
         </td>
         <td>
           <div class="title">
-             <span style="font-weight: bold; color: #ff5733;">Upcoming!</span>
             <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/notes.md" >#004: The Evolution of Data Architecture!</a>
             <span> | From Warehouses to Lakehouses and the Rise of Real-Time Processing</span>
           </div>
@@ -284,6 +315,7 @@ tags:
           <div class="resources">
             Resources:
             <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/slides.pdf">Slides</a>
+            <a href="https://www.youtube.com/watch?v=hRg6qiIglMA&list=PLuHvv8pyNyW96X5cs0kZTM5AB1SQaytZg&index=4">Video</a>
           </div>
         </td>
       </tr>

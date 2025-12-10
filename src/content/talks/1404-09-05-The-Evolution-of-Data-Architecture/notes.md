@@ -6,4 +6,4 @@
 
 ---
 ### Lecture Notes
-Will Be Added Soon :)
+Will be added soon :)
