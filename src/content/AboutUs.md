@@ -82,19 +82,11 @@ Our goal is simple: create a warm, welcoming space where people can learn from o
     <div class="name">Mehrdad Shirvani</div>
   </div>
   <div class="member">
-    <img src="team/default.png" alt="Ali Nadi">
+    <img src="team/ali_nadi.jpg" alt="Ali Nadi">
     <div class="name">Ali Nadi</div>
   </div>
   <div class="member">
-    <img src="team/amirali.jpg" alt="AmirAli Araghi">
-    <div class="name">AmirAli Araghi</div>
-  </div>
-  <div class="member">
-    <img src="team/ehsan.png" alt="Ehsan Habibagahi">
-    <div class="name">Ehsan Habibagahi</div>
-  </div>
-  <div class="member">
-    <img src="team/default.png" alt="Hirad Torabi">
+    <img src="team/hirad.jpg" alt="Hirad Torabi">
     <div class="name">Hirad Torabi</div>
   </div>
 </div>
