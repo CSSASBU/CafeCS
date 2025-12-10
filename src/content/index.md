@@ -189,6 +189,7 @@ tags:
           <div class="resources">
             Resources:  
             Slides (will be added soon)
+            <a href="https://www.youtube.com/watch?v=D5sedVmHbqk">Video</a>
           </div>
         </td>
       </tr>
@@ -221,6 +222,7 @@ tags:
           <div class="resources">
             Resources:  
             <a href="talks/1404-08-28-Fun-Meets-Function/slides.pdf">Slides</a>
+            <a href="https://www.youtube.com/watch?v=ngArnhT1szM">Video</a>
           </div>
         </td>
       </tr>
