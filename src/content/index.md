@@ -168,7 +168,9 @@ tags:
             <a href="talks/1404-09-19-When-Models-Become-Actors/notes.md" >#005: When Models Become Actors !</a>
             <span> | The Shift from LLMs to Intelligent Agents</span>
           </div>
-          <div>Sina Tayebi</div>
+          <a href="https://github.com/sinaapolo969">
+	          Sina Tayebi
+          </a>
           <div class="tags">
             <span class="tag">ai</span>
 			<span class="tag">llms</span>
@@ -193,14 +195,16 @@ tags:
       </tr>
     <tr>
 	    <td>
-          <img src="talks/1404-09-05-The-Evolution-of-Data-Architecture/poster.png" alt="Intro to Game Theory Poster">
+          <img src="talks/1404-09-05-The-Evolution-of-Data-Architecture/poster.png" alt="The-Evolution-of-Data-Architecture">
         </td>
         <td>
           <div class="title">
             <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/notes.md" >#004: The Evolution of Data Architecture!</a>
             <span> | From Warehouses to Lakehouses and the Rise of Real-Time Processing</span>
           </div>
-          <div>Navid Ebadi</div>
+          <a href="https://github.com/Navid-Ebadi-2003">
+	          Navid Ebadi
+          </a>
           <div class="tags">
             <span class="tag">Nov 26, 2025</span>
             <span class="tag">big-data</span>
@@ -233,7 +237,9 @@ tags:
             <a href="talks/1404-08-28-Fun-Meets-Function/notes.md" >#003: Fun Meets Function</a>
             <span> | When Games Get Serious !</span>
           </div>
-          <div>Mehrdad Shirvani</div>
+          <a href="https://github.com/MehrdadShirvani">
+	          Mehrdad Shirvani
+          </a>
           <div class="tags">
             <span class="tag">Nov 19, 2025</span>
             <span class="tag">games</span>
@@ -266,7 +272,9 @@ tags:
             <a href="talks/1404-08-21-Beyond-The-Bank/notes.md">#002: Beyond the Bank</a>
             <span> |  What is Bitcoin & Why?!</span>
           </div>
-          <div>Seyed Ali Hosseini Nasab</div>
+          <a href="https://github.com/seyed0123">
+	          Seyed Ali Hosseini Nasab
+          </a>
           <div class="tags">
             <span class="tag">Nov 12, 2025</span>
             <span class="tag">bitcoin</span>
@@ -297,7 +305,9 @@ tags:
             <a href="talks/1404-08-14-Who-Is-Guarding-the-Louvre/notes.md">001: Who is Guarding the Louvre?!</a>
             | The Art Gallery Problem Explained
           </div>
-          <div>Shayan Shahrabi Farahani</div>
+          <a href="https://github.com/ShayanShahrabi">
+	          Shayan Shahrabi Farahani
+          </a>
           <div class="tags">
 	        <span class="tag">Nov 5, 2025</span>
             <span class="tag">computational-geometry</span>

@@ -57,36 +57,36 @@ Our goal is simple: create a warm, welcoming space where people can learn from o
 </style>
 
 <div class="team-container">
-  <div class="member">
-    <img src="team/sadra.jpg" alt="Sadra Seyedtabaei">
-    <div class="name">Sadra Seyedtabaei</div>
-  </div>
-<div class="member">
-    <img src="team/sajjad.jpg" alt="Mohammad Sajjad Zanganeh">
-    <div class="name">Mohammad Sajjad Zanganeh</div>
-  </div>
-  <div class="member">
-    <img src="team/amin.jpg" alt="Amin Ghoorchian">
-    <div class="name">Amin Ghoorchian</div>
-  </div>
-  <div class="member">
-    <img src="team/shayan.jpg" alt="Shayan Shahrabi">
-    <div class="name">Shayan Shahrabi</div>
-  </div>
-  <div class="member">
-    <img src="team/ali_taherzadeh.jpg" alt="Ali Taherzadeh">
-    <div class="name">Ali Taherzadeh</div>
-  </div>
-  <div class="member">
-    <img src="team/mehrdad.jpg" alt="Mehrdad Shirvani">
-    <div class="name">Mehrdad Shirvani</div>
-  </div>
-  <div class="member">
-    <img src="team/ali_nadi.jpg" alt="Ali Nadi">
-    <div class="name">Ali Nadi</div>
-  </div>
-  <div class="member">
-    <img src="team/hirad.jpg" alt="Hirad Torabi">
-    <div class="name">Hirad Torabi</div>
-  </div>
+  <a href="https://github.com/Sadra3st" class="member">
+  <img src="team/sadra.jpg" alt="Sadra Seyedtabaei">
+  <div class="name">Sadra Seyedtabaei</div>
+</a>
+<a href="https://github.com/srgtSajjad" class="member">
+  <img src="team/sajjad.jpg" alt="Mohammad Sajjad Zanganeh">
+  <div class="name">Mohammad Sajjad Zanganeh</div>
+</a>
+<a href="https://github.com/AminGh05" class="member">
+  <img src="team/amin.jpg" alt="Amin Ghoorchian">
+  <div class="name">Amin Ghoorchian</div>
+</a>
+<a href="https://github.com/ShayanShahrabi" class="member">
+  <img src="team/shayan.jpg" alt="Shayan Shahrabi">
+  <div class="name">Shayan Shahrabi</div>
+</a>
+<a href="https://github.com/alithz" class="member">
+  <img src="team/ali_taherzadeh.jpg" alt="Ali Taherzadeh">
+  <div class="name">Ali Taherzadeh</div>
+</a>
+<a href="https://github.com/mehrdadShirvani" class="member">
+  <img src="team/mehrdad.jpg" alt="Mehrdad Shirvani">
+  <div class="name">Mehrdad Shirvani</div>
+</a>
+<a href="https://github.com/Al1Nad1" class="member">
+  <img src="team/ali_nadi.jpg" alt="Ali Nadi">
+  <div class="name">Ali Nadi</div>
+</a>
+<a href="https://github.com/HiradTorabi" class="member">
+  <img src="team/hirad.jpg" alt="Hirad Torabi">
+  <div class="name">Hirad Torabi</div>
+</a>
 </div>
