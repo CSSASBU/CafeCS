@@ -172,6 +172,7 @@ tags:
 	          Sina Tayebi
           </a>
           <div class="tags">
+            <span class="tag">Dec 10, 2025</span>
             <span class="tag">ai</span>
 			<span class="tag">llms</span>
 			<span class="tag">agents</span>
@@ -189,7 +190,7 @@ tags:
           </div>
           <div class="resources">
             Resources:  
-            Slides (will be added soon)
+            <a href="talks/1404-09-19-When-Models-Become-Actors/slides.pdf">Slides</a>
           </div>
         </td>
       </tr>
@@ -224,6 +225,8 @@ tags:
           <div class="resources">
             Resources:  
             Slides (will be added soon)
+            <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/slides1.pdf">Slides 1</a>
+            <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/slides2.pdf">Slides 2</a>
             <a href="https://www.youtube.com/watch?v=D5sedVmHbqk">Video</a>
           </div>
         </td>
