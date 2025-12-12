@@ -224,7 +224,6 @@ tags:
           </div>
           <div class="resources">
             Resources:  
-            Slides (will be added soon)
             <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/slides1.pdf">Slides 1</a>
             <a href="talks/1404-09-05-The-Evolution-of-Data-Architecture/slides2.pdf">Slides 2</a>
             <a href="https://www.youtube.com/watch?v=D5sedVmHbqk">Video</a>
