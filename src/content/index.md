@@ -172,7 +172,7 @@ tags:
 	          Saba Soltani Firooz
           </a>
           <div class="tags">
-            <span class="tag">Nov 19, 2025</span>
+            <span class="tag">Dec 17, 2025</span>
 			<span class="tag">docker</span>
 			<span class="tag">containers</span>
 			<span class="tag">software-deployment</span>
