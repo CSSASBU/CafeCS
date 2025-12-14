@@ -161,11 +161,11 @@ tags:
     <tbody>
     <tr>
 	    <td>
-          <img src="1404-09-26-It-Works-on-My-Machine/poster.png" alt="1404-09-26-It-Works-on-My-Machine">
+          <img src="talks/1404-09-26-It-Works-on-My-Machine/poster.png" alt="1404-09-26-It-Works-on-My-Machine">
         </td>
         <td>
           <div class="title">
-            <a href="1404-09-26-It-Works-on-My-Machine/notes.md" >#006: It Works on My Machine !</a>
+            <a href="talks/1404-09-26-It-Works-on-My-Machine/notes.md" >#006: It Works on My Machine !</a>
             <span> | Docker: From a Tool to a Cultural Shift</span>
           </div>
           <a href="">
