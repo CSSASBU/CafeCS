@@ -161,6 +161,62 @@ tags:
     <tbody>
     <tr>
 	    <td>
+          <img src="1404-09-26-It-Works-on-My-Machine/poster.png" alt="1404-09-26-It-Works-on-My-Machine">
+        </td>
+        <td>
+          <div class="title">
+            <a href="1404-09-26-It-Works-on-My-Machine/notes.md" >#006: It Works on My Machine !</a>
+            <span> | Docker: From a Tool to a Cultural Shift</span>
+          </div>
+          <a href="">
+	          Saba Soltani Firooz
+          </a>
+          <div class="tags">
+            <span class="tag">Nov 19, 2025</span>
+			<span class="tag">docker</span>
+			<span class="tag">containers</span>
+			<span class="tag">software-deployment</span>
+			<span class="tag">devops</span>
+			<span class="tag">reproducibility</span>
+			<span class="tag">portability</span>
+			<span class="tag">developer-experience</span>
+			<span class="tag">team-workflows</span>
+			<span class="tag">collaboration</span>
+			<span class="tag">software-culture</span>
+          </div>
+          <div class="description">
+		<p>
+		  Before Docker, deploying software often meant uncertainty, manual setup, and the infamous
+		  <em>"it works on my machine"</em> problem.
+		  Docker didn’t just introduce containers — it introduced reproducibility, portability,
+		  and a new way of thinking about software.
+		</p>
+<p>In this talk, we’ll explore:</p>
+<ul>
+  <li>
+    <strong>How Docker was born</strong> and why the industry needed it
+  </li>
+  <li>
+    The core <strong>technical ideas behind containers</strong>
+    <span style="opacity: 0.8;">(without the boring parts)</span>
+  </li>
+  <li>
+    <strong>How Docker reshaped team workflows</strong>, DevOps culture, and the developer mindset
+  </li>
+  <li>
+    Why Docker is <strong>less about technology</strong>, and more about
+    <strong>how we collaborate</strong>
+  </li>
+</ul>
+          </div>
+          <div class="resources">
+            Resources:  
+            <a href="">Slides (Will be uploaded soon)</a>
+          </div>
+        </td>
+      </tr>
+    <tr>
+	    <td>
           <img src="talks/1404-09-19-When-Models-Become-Actors/poster.png" alt="Intro to Game Theory Poster">
         </td>
         <td>
