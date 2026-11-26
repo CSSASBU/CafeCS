@@ -161,6 +161,40 @@ tags:
     <tbody>
     <tr>
 	    <td>
+          <img src="talks/1404-10-03-How-Do-Machines-Learn-to-Think/poster.jpg" alt="1404-10-03-How-Do-Machines-Learn-to-Think">
+        </td>
+        <td>
+          <div class="title">
+            <a href="talks/1404-10-03-How-Do-Machines-Learn-to-Think/notes.md" >#007: How do Machines Learn to Think ?!</a>
+            <span> | Building Reliable AI through Mathematical Reasoning</span>
+          </div>
+          <a href="">
+	          Mohammad Reza Khan Mohammadi
+          </a>
+          <div class="tags">
+            <span class="tag">Jan 23, 2026</span>  
+<span class="tag">neuro-symbolic-ai</span>  
+<span class="tag">mathematical-reasoning</span>  
+<span class="tag">statistical-learning</span>  
+<span class="tag">formal-logic</span>  
+<span class="tag">deep-learning</span>  
+<span class="tag">artificial-intelligence</span>  
+<span class="tag">ai-reliability</span>  
+<span class="tag">interpretability</span>  
+<span class="tag">logical-consistency</span>  
+<span class="tag">multi-step-reasoning</span>
+          </div>
+          <div class="description">
+          Modern AI has achieved strong results in pattern recognition, yet reasoning remains a fundamental challenge. This talk explores the mathematical connection between statistical learning and formal logic, focusing on neuro-symbolic AI, where deep learning is combined with structured reasoning. By uniting neural flexibility with logical precision, we aim to address key limitations of current models, including black-box behavior and weak logical consistency, enabling AI systems that are more reliable, interpretable, and capable of multi-step reasoning.
+          </div>
+          <div class="resources">
+            Resources:  
+            <a href="">Slides (Will be uploaded soon)</a>
+          </div>
+        </td>
+      </tr>
+    <tr>
+	    <td>
           <img src="talks/1404-09-26-It-Works-on-My-Machine/poster.png" alt="1404-09-26-It-Works-on-My-Machine">
         </td>
         <td>
